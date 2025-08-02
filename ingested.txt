@@ -1,9 +1,4 @@
 Hi. This is the ingested file.
 Made changes to the data.
-<<<<<<< HEAD
 Adding more data.
 bug fixed by master.
-=======
-Adding more data from feature1.
-Fixing teh bug from bugfix.
->>>>>>> bugfix
